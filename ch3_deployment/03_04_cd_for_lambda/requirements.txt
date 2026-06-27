@@ -2,3 +2,4 @@ black
 pylint
 flake8
 awscli
+numpy
